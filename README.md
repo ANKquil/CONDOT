@@ -1,8 +1,5 @@
 # Проектная работа по разработке кроссплатформенных программных систем
 
-##Си
-Папка c_project
-
 Windows CLI
 
 ![image](https://user-images.githubusercontent.com/78841412/207137710-e0d6c5bc-f886-406a-afe6-6efe45984816.png)
