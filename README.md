@@ -13,3 +13,7 @@ Linux
 Windows App
 
 ![image](https://user-images.githubusercontent.com/78841412/207139386-c773e917-1937-4170-84f3-e30c7f3e7169.png)
+
+
+WEB
+![image](https://user-images.githubusercontent.com/78841412/207651172-cd4a1677-62e7-4fb7-9cf9-efa15db511f1.png)
